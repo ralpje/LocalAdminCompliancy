@@ -1,0 +1,18 @@
+{
+    "Rules": [
+        {
+            "SettingName": "numberOfExtraAdmins",
+            "Operator": "IsEquals",
+            "DataType": "Int64",
+            "Operand": "0",
+            "MoreInfoUrl": "https://ralpheckhard.com",
+            "RemediationStrings": [
+                {
+                    "Language": "en_US",
+                    "Title": "Additional admins found!",
+                    "Description": "There are too many members of the Administrators on this system. Please get in touch with IT Support. The device is now marked as non-compliant."
+                }
+            ]
+        }
+    ]
+}
