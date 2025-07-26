@@ -1,6 +1,6 @@
 # LocalAdminCompliancy
 
-With these files you can create a custom compliance policy in Intune, to detect any rogue admin accounts. More information in this blogpost. 
+With these files you can create a custom compliance policy in Intune, to detect any rogue admin accounts. More information in [this blogpost(https://www.ralpheckhard.com/2025-07-26-custom-compliance-for-local-admins/)].
 
 ## detect.ps1
 
